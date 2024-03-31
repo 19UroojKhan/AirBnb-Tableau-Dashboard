@@ -18,7 +18,7 @@ Time Series Analysis: Time series charts depicting trends in Airbnb rental price
 Key Metrics: Metrics section providing insights into the number of vacant rooms, shared rooms, and other relevant statistics for each region.
 
 # SCREENSHOT 
-
+<img width="973" alt="Screenshot 2024-03-31 at 6 10 33 PM" src="https://github.com/19UroojKhan/AirBnb-Tableau-Dashboard/assets/67606435/04957059-939f-4f82-8990-4bfe52ab3477">
 
 # CONCLUSION 
 The Airbnb Dashboard built with Tableau offers users a powerful tool for analyzing Airbnb rental trends in regions like Manhattan, Brooklyn, and beyond. By providing
